@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string name="add_item">Add Item</string>
+    <string name="go_to_another_page">Go to Another Page</string>
+    <string name="this_is_another_page">This is another page!</string>
+    <string name="back">Back</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="delete_item">Delete Item\n</string>
+    <string name="this_is_additional_information_below_the_sign_up_button">This is additional information below the Sign Up button.</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
